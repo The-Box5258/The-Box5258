@@ -1,16 +1,12 @@
 ## Hi there 👋 I'm The-Box5258
 
-A apasionado desarrollador en crecimiento. Me encanta resolver problemas a través del código y construir soluciones eficientes.
+A passionate growing developer. I love solving problems through code and building efficient solutions.
 
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** JavaScript, Python
-- **Frameworks / Librerías:** React, Node.js
-- **Herramientas:** Git, GitHub
+### 🛠️ Technologies & Tools
+- **Languages:** C, C++, Java, SQL
+- **Tools:** Git, GitHub
 
-### 🚀 Proyectos Destacados
-- **[Nombre del Proyecto](enlace al repo):** Breve descripción de una línea sobre lo que hace tu mejor proyecto.
-
-### 📫 Conectemos
-- **LinkedIn:** [Tu Nombre](enlace a tu linkedin)
-- **Email:** tu-correo@email.com
+### 📫 Connect with me
+- **LinkedIn:** [Carlos Ferreyro García](https://www.linkedin.com/in/ferreyro-garcia-carlos-9046a2355/)
+- **Email:** charly.charly5258@gmail.com
 
