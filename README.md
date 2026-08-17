@@ -7,21 +7,22 @@ A passionate growing developer. I love solving problems through code and buildin
 **Languages:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" alt="Languages" />
   </a>
 </p>
 
 **Tools:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
   </a>
 </p>
 
-### 📈 GitHub Streak Stats
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="180" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Langs" height="180" />
 </p>
 
 ### 📫 Connect with me
