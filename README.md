@@ -6,16 +6,16 @@ A passionate growing developer. I love solving problems through code and buildin
 
 **Languages:**
 <p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="SQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
 **Tools:**
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
 ### 📫 Connect with me
