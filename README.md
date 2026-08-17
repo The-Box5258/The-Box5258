@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm The-Box5258
 
-<!--
-**The-Box5258/The-Box5258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A apasionado desarrollador en crecimiento. Me encanta resolver problemas a través del código y construir soluciones eficientes.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Python
+- **Frameworks / Librerías:** React, Node.js
+- **Herramientas:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+- **[Nombre del Proyecto](enlace al repo):** Breve descripción de una línea sobre lo que hace tu mejor proyecto.
+
+### 📫 Conectemos
+- **LinkedIn:** [Tu Nombre](enlace a tu linkedin)
+- **Email:** tu-correo@email.com
+
