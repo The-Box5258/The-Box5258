@@ -5,16 +5,16 @@ A passionate growing developer. I love solving problems through code and buildin
 ### 🛠️ Technologies & Tools
 
 **Languages:**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=c,c++,java,sql" />
   </a>
 </p>
 
 **Tools:**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=git, github" />
   </a>
 </p>
 
