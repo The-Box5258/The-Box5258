@@ -7,8 +7,7 @@ A passionate growing developer. I love solving problems through code and buildin
 **Languages:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" />
-     <img src="https://skillicons.dev/icons?i= git, github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql, git" />
   </a>
 </p>
 
